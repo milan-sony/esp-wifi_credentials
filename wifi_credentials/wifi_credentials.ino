@@ -10,8 +10,8 @@
 #include <WiFiManager.h>
 
 //WiFi Credentials
-const char* ssid = "Edayady";
-const char* password = "mynameismilanmilosh";
+const char* ssid = "MilanSony";
+const char* password = "27022001";
 
 //Access Point Credentials
 const char* accesspointname = "NodeMCU"; //Access Point Name
